@@ -37,7 +37,7 @@ https://github.com/Vinuthnavadikari/servicenow-smart-leave-management/blob/main/
 
 ### Approval Workflow
 
-(Add screenshot)
+https://github.com/Vinuthnavadikari/servicenow-smart-leave-management/blob/main/Screenshot%202026-06-06%20191401.png
 
 ## Outcome
 
