@@ -57,6 +57,24 @@ Employee → Leave Request → Manager Approval → Approved / Rejected
 - Reference Fields
 - Form Design
   
+## Skills Demonstrated
+
+- ServiceNow Application Development
+- Flow Designer
+- Business Rules
+- Form Design
+- Table Relationships
+- Workflow Automation
+- Approval Management 
+
+  ## Future Enhancements
+
+- Leave Balance Deduction
+- Email Notifications
+- Multi-Level Approvals
+- Employee Dashboard
+- Leave Analytics Reports
+  
 ## Outcome
 
 Successfully automated leave request processing using ServiceNow.
