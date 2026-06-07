@@ -29,7 +29,7 @@ Employee → Leave Request → Manager Approval → Approved / Rejected
 
 ### Employee Form
 
-![Employee Form]https://github.com/Vinuthnavadikari/servicenow-smart-leave-management/blob/main/Screenshot%202026-06-06%20195555.png)
+![Employee Form](https://github.com/Vinuthnavadikari/servicenow-smart-leave-management/blob/main/Screenshot%202026-06-06%20195555.png)
 
 ### Leave Request Form
 
