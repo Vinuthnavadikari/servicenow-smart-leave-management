@@ -39,6 +39,24 @@ Employee → Leave Request → Manager Approval → Approved / Rejected
 
 ![Approval Workflow](https://github.com/Vinuthnavadikari/servicenow-smart-leave-management/blob/main/Screenshot%202026-06-06%20191401.png)
 
+## Project Highlights
+
+- Employee Management
+- Leave Request Creation
+- Leave Duration Calculation using Business Rules
+- Manager Approval Workflow using Flow Designer
+- Automatic Status Updates
+- Leave Tracking System
+
+## Key Learnings
+
+- ServiceNow Studio
+- Flow Designer
+- Business Rules
+- Table Relationships
+- Reference Fields
+- Form Design
+  
 ## Outcome
 
 Successfully automated leave request processing using ServiceNow.
