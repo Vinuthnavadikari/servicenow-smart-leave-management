@@ -1,5 +1,19 @@
 # Smart Leave Management Application
 
+## Problem Statement
+
+Organizations often manage employee leave requests manually, leading to delays and lack of visibility. This application automates the leave request and approval process using ServiceNow workflows.
+
+## Application Architecture
+
+Employee Table
+      ↓
+Leave Request Table
+      ↓
+Manager Approval Workflow
+      ↓
+Status Update (Approved/Rejected)
+
 ## Overview
 
 A custom ServiceNow application developed to automate employee leave requests and manager approvals.
@@ -12,6 +26,7 @@ A custom ServiceNow application developed to automate employee leave requests an
 - Manager Approval Workflow
 - Automatic Status Updates
 - Leave Balance Validation
+- Automatic Leave Duration Calculation using Business Rules
 
 ## Technologies Used
 
@@ -77,4 +92,4 @@ Employee → Leave Request → Manager Approval → Approved / Rejected
   
 ## Outcome
 
-Successfully automated leave request processing using ServiceNow.
+Successfully developed and tested a Smart Leave Management Application in ServiceNow that automates leave request submission, manager approvals, leave duration calculation, and status tracking through workflow automation.
